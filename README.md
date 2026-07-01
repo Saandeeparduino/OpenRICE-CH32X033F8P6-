@@ -2,7 +2,7 @@
  
 > An open-source RISC-V based embedded development platform designed and developed by **Vishishta Innovators**.
  
- <img width="705" height="997" alt="image" src="https://github.com/user-attachments/assets/5828ecea-6f87-4235-821f-15c5ce70c123" />
+ <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/5828ecea-6f87-4235-821f-15c5ce70c123" />
 <img width="625" height="475" alt="image" src="https://github.com/user-attachments/assets/894d95db-362d-4fcf-b62b-df4829a2b5ff" />
 
 ---
